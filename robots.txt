@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmpowergarage.netlify.app/sitemap.xml
